@@ -1,11 +1,11 @@
 build:
-  version: "1.0"
+  version: "3.0"
 
 web-app:
-  message: "Welcome to healthcare web app related prod APIs "
+  message: "Welcome to biblio web app related local APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@healthcare.com"
+    name: "yohan lambeau - Product Owner"
+    email: "yohan.lambeau@biblioapp.com"
   onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+    - (412) 419-3491
+    - (915) 382-1932
