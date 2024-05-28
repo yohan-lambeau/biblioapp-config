@@ -1,11 +1,11 @@
 build:
-  version: "2.0"
+  version: "3.0"
 
 web-app:
-  message: "Welcome to healthcare web app related QA APIs "
+  message: "Welcome to biblio web app related local APIs "
   contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
-    email: "cherryl@healthcare.com"
+    name: "yohan lambeau QA lead"
+    email: "yohan.lambeau@biblioapp.com"
   onCallSupport:
-    - (310) 875-4367
-    - (201) 236-1267
+    - (412) 419-3491
+    - (915) 382-1932
