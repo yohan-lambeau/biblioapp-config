@@ -1,0 +1,14 @@
+server:
+  port: 8084
+
+build:
+  version: "3.0"
+
+web-app:
+  message: "Welcome to biblio app Library Micro service "
+  contactDetails:
+    name: "yohan lambeau"
+    email: "yohan.lambeau@biblioapp.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
