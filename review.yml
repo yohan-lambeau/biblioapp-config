@@ -5,7 +5,7 @@ build:
   version: "3.0"
 
 web-app:
-  message: "Welcome to biblio app Comment Micro service "
+  message: "Welcome to biblio app review Micro service "
   contactDetails:
     name: "yohan lambeau"
     email: "yohan.lambeau@biblioapp.com"
